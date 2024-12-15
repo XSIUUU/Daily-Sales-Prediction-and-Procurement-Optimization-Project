@@ -38,8 +38,3 @@ The Random Forest model significantly outperforms Linear Regression in reducing 
 - **Sales Forecasting**: Accurate projections for daily sales across products.
 - **Inventory Optimization**: Informed procurement planning to minimize stock shortages or overages.
 
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone <repository-url>
